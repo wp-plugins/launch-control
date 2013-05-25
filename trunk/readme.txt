@@ -4,15 +4,17 @@ Donate link: http://swapycle.co.uk/why-us/
 Tags: maintenance, login, under-construction, administration, offline, unavailable, landing page
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.2.1
+Stable tag: 1.0.0
 License:GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Close your website on maintenance. Search engines and regular users don't see your site. Access only by login
+Quick Registration Holding Page-With a click of a button hide your website when you need to change a few things or run an upgrade, making it only accessible admins.
 
 == Description ==
 
 Are you working on a new website and don’t want the public or your users to have access until your masterpiece is complete, but still allow them to register? Yes! Thought so. with a click of a button hide your website when you need to change a few things or run an upgrade, making it only accessible admins. There is also an area to add a custom message which will be shown to the users while your site is down. Users can register and receive their login credentials by email to use later.
+
+Close your website on maintenance. Search engines and regular users don't see your site. Access only by login
 
 == Installation ==
 
