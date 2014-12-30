@@ -1,28 +1,29 @@
 <?php
 /*
 	Plugin Name: Launch Control
-	Plugin URI: http://swapycle.co.uk/download
-	Description: Are you working on a new website and don’t want the public or your users to have access until your masterpiece is complete, but still allow them to register? Yes! Thought so. with a click of a button hide your website when you need to change a few things or run an upgrade, making it only accessible admins. There is also an area to add a custom message which will be shown to the users while your site is down. Users can register and receive their login credentials by email to use later.
-	Version: 1.0.0
+	Plugin URI: http://cuestartup.com/wordpress-signup-membership-plugin/
+	Description: Quick Registration Holding Page - With a click of a button hide your website when you need to change a few things or run an upgrade, making it only accessible admins and allow users to register.
+	Version: 1.1.0
 	Author: Launch Control
-	Author URI: http://swapycle.co.uk/
-	License: GPL2/Commercial
+	Author URI: http://cuestartup.com/
+	License: GPL2 or later
 	 * Text Domain: launch_control
 */
-/*  Copyright 2013  Launch Control  (email : info@swapycle.co.uk)
+/*  Copyright 2014  Launch Control  (email : info@cuestartup.com)
 
-	This program is free software; you can redistribute it and/or modify
-	it under the terms of the GNU General Public License, version 2, as 
-	published by the Free Software Foundation.
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
 
-	This program is distributed in the hope that it will be useful,
-	but WITHOUT ANY WARRANTY; without even the implied warranty of
-	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-	GNU General Public License for more details.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
-	You should have received a copy of the GNU General Public License
-	along with this program; if not, write to the Free Software
-	Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 	
 	
