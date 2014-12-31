@@ -171,20 +171,20 @@ $(window).load(function() {
 				<div class="company">
 					<a href="<?php bloginfo('home'); ?>"><img src="<?php if ( $mt_lib['logo'] ) { echo $mt_lib['logo']; } else { echo PLUGIN_URL . LIB_DIR.'/images/launchcontrol-logo.png'; } ?>" alt="logo"/></a>
 				</div>
-				
+
 
 							<center> <div style="display:"> <!-- Registration -->  
-			<div id="register-form">  
+            <div id="register-form">  
             <div class="title">  
                 <h1>Register your Account</h1>  
                 <span>Sign Up with us and Enjoy!</span>  
             </div>  
-                <form action="<?php echo site_url('wp-login.php?action=register') ?>" method="post">  
-                <input type="text" required name="user_login" placeholder="Username" id="user_login" class="input" />  
-                <input type="text" required name="user_email" placeholder="Your E-mail" id="user_email" class="input"  /> 
+                <form action="<?php echo site_url('wp-login.php?action=register', 'login_post') ?>" method="post">  
+                <input type="text" name="user_login" placeholder="Username" id="user_login" class="input" />  
+                <input type="text" name="user_email" placeholder="Your E-mail" id="user_email" class="input"  /> 
                   <?php do_action('register_form'); ?>  
-                    <input type="submit" value="Register" id="register" onClick="alert('You are now Registered! We have sent you an email with your future login details')" />
-						<input type="hidden" name="redirect_to" value="/thankyou.html"/>
+                    <input type="submit" value="Register" id="register" />
+						<input type="hidden" name="redirect_to" value=""/>
 						<br>
                 </hr>  
                 <strong><p class="statement">A password will be e-mailed to you.</p></strong>
