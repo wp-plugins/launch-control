@@ -14,8 +14,6 @@ Quick Registration Holding Page - With a click of a button hide your website whe
 
 Are you working on a new website and don’t want the public or your users to have access until your masterpiece is complete, but still allow them to register? Yes! Thought so. with a click of a button hide your website when you need to change a few things or run an upgrade, making it only accessible admins. There is also an area to add a custom message which will be shown to the users while your site is down. Users can register and receive their login credentials by email to use later.
 
-You can also Download it here >>> http://cuestartup.com/wordpress-signup-membership-plugin/
-
 Close your website on maintenance. Search engines and regular users don't see your site. Access only by login
 
 == Installation ==
